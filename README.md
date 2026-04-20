@@ -1,5 +1,7 @@
 # Luxival Playwright Web UI Suite
 
+[![Playwright UI Tests](https://github.com/oluwarotimitimileyin/luxival-playwright-suite/actions/workflows/test.yml/badge.svg)](https://github.com/oluwarotimitimileyin/luxival-playwright-suite/actions/workflows/test.yml)
+
 Playwright + Python + pytest test suite for [luxival.vercel.app](https://luxival.vercel.app).
 
 Complements the [Cypress E2E suite](https://github.com/oluwarotimitimileyin/luxival-qa-cypress-suite) and [Selenium suite](https://github.com/oluwarotimitimileyin/Selenium-web-UI-suite) with cross-browser UI testing via Playwright's native browser engines.
